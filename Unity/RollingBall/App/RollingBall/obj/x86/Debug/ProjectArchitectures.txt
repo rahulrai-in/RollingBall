@@ -1,0 +1,4 @@
+D:\Projects\RollingBall\Unity\RollingBall\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Projects\RollingBall\Unity\RollingBall\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Projects\RollingBall\Unity\RollingBall\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Projects\RollingBall\Unity\RollingBall\App\RollingBall\RollingBall.csproj;x86

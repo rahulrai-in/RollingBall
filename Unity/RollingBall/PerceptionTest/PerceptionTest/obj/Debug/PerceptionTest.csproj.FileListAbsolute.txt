@@ -1,0 +1,10 @@
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\PerceptionSimulationManager.dll
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\PerceptionTest.exe.config
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\PerceptionTest.exe
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\PerceptionTest.pdb
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\PerceptionSimulationManager.Interop.dll
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\PerceptionSimulationRest.dll
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\bin\Debug\SimulationStream.Interop.dll
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\obj\Debug\PerceptionTest.csprojResolveAssemblyReference.cache
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\obj\Debug\PerceptionTest.exe
+D:\Projects\RollingBall\Unity\RollingBall\PerceptionTest\PerceptionTest\obj\Debug\PerceptionTest.pdb

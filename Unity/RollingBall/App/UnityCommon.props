@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>RollingBall</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Projects\RollingBall\Unity\RollingBall\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Projects\RollingBall\Unity\RollingBall\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity 5.6.0b9\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
